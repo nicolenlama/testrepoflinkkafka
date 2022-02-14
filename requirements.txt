@@ -1,0 +1,2 @@
+pache-flink==1.14.3
+kafka-python==2.0.2
